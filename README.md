@@ -1,3 +1,9 @@
+
+中文版：资源|深度学习模型转换器
+https://mp.weixin.qq.com/s?__biz=MzA4NzE1NzYyMw==&mid=2247489480&idx=4&sn=d831302390e3069d5b7cfa813f6c8474&chksm=903ce9d0a74b60c667a87795296335758bb113859de2ba019247d66050f04af7af1ae6c08a29&mpshare=1&scene=1&srcid=0421hooZuxqUwXQZ5oNFfuwF#rd
+
+
+
 The project will be updated continuously ......  
 Pull requests are welcome!
 
